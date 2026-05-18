@@ -1,0 +1,27 @@
+@echo off
+rem BAT SCRIPTING commands
+cd
+md make directory
+rd remove directory
+ver
+cls
+dir
+echo
+exit 
+rem  commenting
+start 
+time 
+move 
+path 
+ren
+type 
+vol 
+find 
+help 
+ping 
+sort
+taskkill
+tasklist
+Fc
+ip config
+move helo.bat .\NewDir
